@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Filipp
 
-<!--
-**Filipprul/Filipprul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hardware & Backend Developer | Godot Game Developer | Lifelong Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Tech
+- **Languages:** Java, JavaScript, Kotlin, GDScript, CSS
+- **Other:** Problem Solving, Algorithms & Data Structures
+
+---
+
+## Projects I'm Working On
+- 2D Pixel Fighting Game
+- Java and Hardware mini-projects for practice and skill building
+
+---
+
+## What I'm Learning
+- Java
+
+---
+
+## GitHub Stats
+![Filipp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipprul&show_icons=true&count_private=true&theme=dark)
+
+"Learning, building, and coding every day."
