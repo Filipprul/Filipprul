@@ -1,5 +1,6 @@
 # Hi, I'm Filipp 👋
 Aspiring Java & C Developer | High School Student | Game & Hardware Enthusiast
+
 I love building games, backend applications, and hardware projects that solve real problems and challenge my skills
 
 ## Skills & Tech
